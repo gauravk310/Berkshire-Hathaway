@@ -87,8 +87,8 @@ Not applicable, as this is a static website.
 ==========
 
 **Your Name**
-> "Your Email Address"
-> "Your GitHub Profile"
+> "gskadam3b@gmail.com"
+> "gauravk310"
 
 📝 License
 =========
